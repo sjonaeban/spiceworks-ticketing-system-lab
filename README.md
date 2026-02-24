@@ -13,11 +13,11 @@ This project documents how Ticketing System works in a real world scenario using
   
   Objective : Understand how tickets are created and categorized
   
-- Ticket Closure Checklist (Confirm resolution with the user, Update ticket notes, Close the       ticket with proper resolution code.
-  
+- Ticket Closure Checklist (Confirm resolution with the user, Update ticket notes, Close the ticket with proper resolution code.
+
   Objective : Ensure a ticket is properly resolved and documented
   
-- Escalation (When to escalate, To which team(e.g., Administrator), What info should be included   when escalating
+- Escalation (When to escalate, To which team(e.g., Administrator), What info should be included when escalating
   
   Objectives : Understand when and how to escalate a ticket. 
 
@@ -26,14 +26,19 @@ This project documents how Ticketing System works in a real world scenario using
 
 ## Features Explored
 - User management
+- Internal note 
 - Ticket assignment
 - Email notifications
 - Reports dashboard
 
 ## Lessons Learned
-- How ticket lifecycle works
+- How ticket lifecycle work (Process Flow)
 - Importance of documentation in IT support
 - Basic troubleshooting of services
-
+- Proper approach for resolving a problemS
+- How to properly log a ticket 
+- Key components of a ticketing system
+- Priority Level (Determining Urgency)
+  
 ## Author
 Jon Aeban G. Silayro
