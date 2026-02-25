@@ -10,22 +10,23 @@ This project documents how Ticketing System works in a real world scenario using
 - Spiceworks web platform 
 
 ## Ticket Workflow Testing 
-- Simulated Ticket Creation (Subject, Issue description, Category, Priority Attachments). 
-- Objective : Understand how tickets are created and categorized
 
 ### Ticket Creation
+- Simulated Ticket Creation (Subject, Issue description, Category, Priority Attachments). 
+- Objective : Understand how tickets are created and categorized
+  
 ![Ticket Creation](Ticket%20creation.png)
   
+### Closing Ticket
 - Ticket Closure Checklist (Confirm resolution with the user, Update ticket notes, Close the ticket with proper resolution code.)
 - Objective : Ensure a ticket is properly resolved and documented
   
-### Closing Ticket
 ![Closing Ticket](Closing%20Ticket.png)
   
+### Escalating Ticket
 - Escalation (When to escalate, To which team(e.g., Administrator), What info should be included when escalating
 - Objectives : Understand when and how to escalate a ticket.
   
-### Escalating Ticket
 ![Escalating Ticket](Escalating%20Ticket.png) 
 
 ## Features Explored
