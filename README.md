@@ -10,7 +10,7 @@ This project documents how Ticketing System works in a real world scenario using
 - Spiceworks web platform 
 
 ## Ticket Workflow Testing 
-- Simulated Ticket Creation (Subject, Issue description, Category, Prioriy Attachments). 
+- Simulated Ticket Creation (Subject, Issue description, Category, Priority Attachments). 
 - Objective : Understand how tickets are created and categorized
 
 ### Ticket Creation
