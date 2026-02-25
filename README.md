@@ -41,7 +41,7 @@ This project documents how Ticketing System works in a real world scenario using
 - How ticket lifecycle work (Process Flow)
 - Importance of documentation in IT support
 - Basic troubleshooting of services
-- Proper approach for resolving a problemS
+- Proper approach for resolving a problems
 - How to properly log a ticket 
 - Key components of a ticketing system
 - Priority Level (Determining Urgency)
