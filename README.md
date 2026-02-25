@@ -36,6 +36,17 @@ This project documents how Ticketing System works in a real world scenario using
 - Importance of documentation in IT support
 - Basic troubleshooting of services
 - Proper approach for resolving a problemS
+
+## Screenshots
+
+### Ticket Creation
+![Ticket Creation](Ticket%20creation.png)
+
+### Escalating Ticket
+![Escalating Ticket](Escalating%20Ticket.png)
+
+### Closing Ticket
+![Closing Ticket](Closing%20Ticket.png)
 - How to properly log a ticket 
 - Key components of a ticketing system
 - Priority Level (Determining Urgency)
